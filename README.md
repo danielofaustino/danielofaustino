@@ -1,6 +1,6 @@
-### Daniel Oliveira Faustino
-    27 Anos👋
-    Working at Retha Imóveis
+  # Daniel Oliveira Faustino
+  
+  27 Anos👋 - Senior Tecnical Supervisor at Retha Imóveis
 
 - 🔭 I’m currently working on ...
 
@@ -8,11 +8,18 @@
    
 - 🌱 I’m currently learning ...
 
+  
+  
+  -  Rocketseat - GoStack 09
+      -  NodeJS, ReactJS e React Native
+      
   -  Rocketseat - LaunchBase
   
   -  Gama Academy - Hiring Coders
-  
-  -  React, NodesJs
+       - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
+       - CSS, HTML, Bootstrap,Javascript e React.
+       - Desafio Covid-19 ( Pagina Web hospedada no Netfily usando Css,Html sem usar Bootstrap.)
+       - React, NodesJs
   
   -  Javascript, Jsx, Boostrap 
 
