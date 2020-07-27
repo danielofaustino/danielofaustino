@@ -1,4 +1,5 @@
-### Hi there 👋
+### Daniel Oliveira Faustino
+    27 Anos👋
 
 <!--
 **danielofaustino/danielofaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +7,20 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+   - My Wife's site -> www.fabrinemacedo.com.br
+   
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+  Rocketseat - LaunchBase
+  
+  Gama Academy - Hiring Coders
+  
+- React, NodesJs
+- Javascript, Jsx, Boostrap 
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Keep me updated in the IT world!
+
+
