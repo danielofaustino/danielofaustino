@@ -1,8 +1,6 @@
 ### Daniel Oliveira Faustino
     27 Anos👋
-
-
-Here are some ideas to get you started:
+    Working at Retha Imóveis
 
 - 🔭 I’m currently working on ...
 
