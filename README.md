@@ -8,12 +8,13 @@
    
 - 🌱 I’m currently learning ...
 
-  Rocketseat - LaunchBase
+  -  Rocketseat - LaunchBase
   
-  Gama Academy - Hiring Coders
+  -  Gama Academy - Hiring Coders
   
-- React, NodesJs
-- Javascript, Jsx, Boostrap 
+  -  React, NodesJs
+  
+  -  Javascript, Jsx, Boostrap 
 
 - 🤔 I’m looking for help with ...
 
