@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on ...
 
+   - Gama Academy - Module 2 - Vtex Training 
+  
    - My Wife's site -> www.fabrinemacedo.com.br
    
 - 🌱 I’m currently learning ...
