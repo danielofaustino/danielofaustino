@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on ...
 
-   - Gama Academy - Module 2 - Vtex Training 
+   - Gama Academy - Semi Final :
+        - Chat Bot - Aws and Vtex
   
    - My Wife's site -> www.fabrinemacedo.com.br
    
