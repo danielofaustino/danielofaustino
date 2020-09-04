@@ -6,6 +6,9 @@
 
    - Gama Academy - Semi Final :
         - Chat Bot - Aws and Vtex
+        
+   - Retha Imóveis :
+        - IGPM Calculation
   
    - My Wife's site -> www.fabrinemacedo.com.br
    
