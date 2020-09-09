@@ -29,6 +29,9 @@
   
   -  Javascript, Jsx, Boostrap 
 
+  -  Python
+    - Selenium
+    
 - 🤔 I’m looking for help with ...
 
 - Keep me updated in the IT world!
