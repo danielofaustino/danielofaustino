@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on ...
 
    - Gama Academy - Semi Final :
-        - Chat Bot - Aws and Vtex
+        - Final Project  - Chat Bot - Aws and Vtex as a Front End Developer
+        - https://github.com/Projeto-Gama-Academy/chatbot
         
    - Retha Imóveis :
         - IGPM Calculation
