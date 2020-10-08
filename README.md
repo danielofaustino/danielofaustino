@@ -9,7 +9,7 @@
         - https://github.com/Projeto-Gama-Academy/chatbot
         
    - Retha Imóveis :
-        - IGPM Calculation
+        - Controle de Estoque - Materiais de Escritório e Insumos de Impresssoras ( MongoDB,Express,React, Nodes)
   
    - My Wife's site -> www.fabrinemacedo.com.br
    
