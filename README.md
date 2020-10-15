@@ -4,29 +4,22 @@
 
 - 🔭 I’m currently working on ...
 
-   - Gama Academy - Semi Final :
-        - Final Project  - Chat Bot - Aws and Vtex as a Front End Developer
-        - https://github.com/Projeto-Gama-Academy/chatbot
-        
    - Retha Imóveis :
-        - Controle de Estoque - Materiais de Escritório e Insumos de Impresssoras ( MongoDB,Express,React, Nodes)
+   
+        - Controle de Estoque - Materiais de Escritório e Insumos de Impresssoras ( MongoDB,Express,React,Node)
   
    - My Wife's site -> www.fabrinemacedo.com.br
    
 - 🌱 I’m currently learning ...
 
-  
-  
-  -  Rocketseat - GoStack 09
-      -  NodeJS, ReactJS e React Native
+  -  RocketSeat - Gostack 11
       
   -  Rocketseat - LaunchBase
   
   -  Gama Academy - Hiring Coders
        - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
-       - CSS, HTML, Bootstrap,Javascript e React.
-       - Desafio Covid-19 ( Pagina Web hospedada no Netfily usando Css,Html sem usar Bootstrap.)
-       - React, NodesJs
+       - CSS, HTML, Bootstrap,Javascript e React
+       - React, NodesJs , GraphQl , Typescript
   
   -  Javascript, Jsx, Boostrap 
 
