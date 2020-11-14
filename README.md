@@ -11,10 +11,10 @@
    - My Wife's site -> www.fabrinemacedo.com.br
    
 - 🌱 I’m currently learning ...
-
+ 
+  -  Vanilla Javascript Intermediate and Advanced.
+ 
   -  RocketSeat - Gostack 11
-      
-  -  Rocketseat - LaunchBase
   
   -  Gama Academy - Hiring Coders
        - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
