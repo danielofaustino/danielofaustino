@@ -10,24 +10,17 @@
   
    - My Wife's site -> www.fabrinemacedo.com.br
    
+   - A debts control to Learn React and Node Js -> https://debts-connvert-client.herokuapp.com/
+   
 - 🌱 I’m currently learning ...
- 
-  -  Vanilla Javascript Intermediate and Advanced.
  
   -  RocketSeat - Gostack 11
   
-  -  Gama Academy - Hiring Coders
+  -  Gama Academy - Hiring Coders - Completed
        - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
        - CSS, HTML, Bootstrap,Javascript e React
        - React, NodesJs , GraphQl , Typescript
   
-  -  Javascript, Jsx, Boostrap 
 
-  -  Python
-    - Selenium
-    
-- 🤔 I’m looking for help with ...
-
-- Keep me updated in the IT world!
 
 
