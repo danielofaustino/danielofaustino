@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on ...
 
+   - RocketSeat - Gostack 
+
    - Retha Imóveis :
    
         - Controle de Estoque - Materiais de Escritório e Insumos de Impresssoras ( MongoDB,Express,React,Node)
@@ -14,7 +16,7 @@
    
 - 🌱 I’m currently learning ...
  
-  -  RocketSeat - Gostack 11
+  -  RocketSeat - Gostack 
   
   -  Gama Academy - Hiring Coders - Completed
        - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
