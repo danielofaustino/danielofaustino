@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ...
 
     - [ArtVogue - Website](https://github.com/danielofaustino/artvogue) 
-     Oficial Art Vogue Web Site - www.artvoguereformas.com.br ( React, Saas, Bootstrap, ReactStrap, Google Forms, Netlify, Slick.js )
+     Oficial Art Vogue Web Site - www.artvoguereformas.com.br ( React, Saas, Bootstrap, ReactStrap, Google Forms, Netlify, Slick.js, Eslint, Prettier )
 
    - [Materiais](https://github.com/danielofaustino/materiais) 
      A Web system to control the company's stock, I'm using React and Material UI to the front-end and Node, Express and MongoDb to the Back-end.
