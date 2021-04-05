@@ -4,20 +4,21 @@
 
 - 🔭 I’m currently working on ...
 
+    - [ArtVogue - Website](https://github.com/danielofaustino/artvogue) 
+     Oficial Art Vogue Web Site - www.artvoguereformas.com.br ( React, Saas, Bootstrap, ReactStrap, Google Forms, Netlify, Slick.js )
+
    - [Materiais](https://github.com/danielofaustino/materiais) 
      A Web system to control the company's stock, I'm using React and Material UI to the front-end and Node, Express and MongoDb to the Back-end.
    
-  
+    - [Fabrine Macedo Beauty Artist] 
+     Oficial Fabrine Macedo Beauty Artist Web site - www.fabrinamacedo.com.br, We will remake this website using React.
    
-   - My Wife's site -> www.fabrinemacedo.com.br
-   
-   - A debts control to Learn React and Node Js -> https://debts-connvert-client.herokuapp.com/
    
 - 🌱 I’m currently learning ...
-
-  -  Material UI - Udemy
    
   -  RocketSeat - Gostack 
+  -  
+  -  Programador BR - Fullstack Developer
   
   -  Gama Academy - Hiring Coders - Completed ✅
        - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
