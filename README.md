@@ -10,7 +10,7 @@
    - [Materiais](https://github.com/danielofaustino/materiais) 
      A Web system to control the company's stock, I'm using React and Material UI to the front-end and Node, Express and MongoDb to the Back-end.
    
-    - [Fabrine Macedo Beauty Artist] 
+    - [Fabrine Macedo Beauty Artist](https://github.com/danielofaustino/fabrinemacedobeautyartist) 
      Oficial Fabrine Macedo Beauty Artist Web site - www.fabrinamacedo.com.br, We will remake this website using React.
    
    
