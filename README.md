@@ -1,6 +1,6 @@
   # Daniel Oliveira Faustino
   
-  28 Anos👋 - Senior Tecnical Supervisor at Retha Imóveis
+  28 Anos👋 - Full Stack Developer
 
 - 🔭 I’m currently working on ...
 
