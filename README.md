@@ -17,11 +17,11 @@
 - 🌱 I’m currently learning ...
    
   -  RocketSeat - Gostack 
-  -  
+
   -  Programador BR - Fullstack Developer
   
-  -  Gama Academy - Hiring Coders - Completed ✅
-       - Git , Git-Hub, Netfily , Slack , Métodos Ágeis, Scrumm
+  -  Gama Academy - Full Stack Developer - Completed ✅
+       - Git , Git-Hub, Netlify , Slack , Métodos Ágeis, Scrumm
        - CSS, HTML, Bootstrap,Javascript e React
        - React, NodesJs , GraphQl , Typescript
   
