@@ -16,9 +16,13 @@
    
 - 🌱 I’m currently learning ...
    
-  -  RocketSeat - Gostack 
+  -  Traversy Media - React front to back 
+     - Learn Modern React By Building 3 Projects
+     - Flux Pattern Using Context & useContext/useReducer Hooks
+     - Learn Redux From Scratch
+     - Full Stack Development with MERN (MongoDB, Express, React, Node)
 
-  -  Programador BR - Fullstack Developer
+  -  Programador BR - Fullstack Developer ✅
   
   -  Gama Academy - Full Stack Developer - Completed ✅
        - Git , Git-Hub, Netlify , Slack , Métodos Ágeis, Scrumm
