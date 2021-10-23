@@ -1,10 +1,11 @@
   # Daniel Oliveira Faustino
   
-  28 Anos👋 - Full Stack Developer
+  29 Anos👋 - Full Stack Developer
 
 - 🔭 I’m currently working on ...
 
     - FastProBR - Projects Visa Partners
+     I'm a full stack developer working at Lab Garage - Visa Partner - Mobile with React Native , front end with React, and Back End with Node
 
     - [Contact Keeper](https://github.com/danielofaustino/contact-keeper) 
      MERN app to save contacts - ( MongoDB, Mongoose, Express, React and Node ) - Using Context Api .
@@ -17,6 +18,8 @@
    
    
 - 🌱 I’m currently learning ...
+
+  - Next Level Week - Impulse and Expanse (10/2021)
 
   -  Gama Academy - Full Stack Developer - 2021
       Starts at - 24/06/21  
