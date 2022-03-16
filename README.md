@@ -4,22 +4,27 @@
 
 - 🔭 I’m currently working on ...
 
-    - - [FastProBR](https://www.fastprobr.com) - [Visa Partner](https://www.partnerbase.com/fastprobr/visa)
+    - [FastProBR](https://www.fastprobr.com) - [Visa Partner](https://www.partnerbase.com/fastprobr/visa)
      I'm a full stack developer working at Lab Garage.
      
-     Stack:
-       Mobile:
+    - Stack
+    - 
+       Mobile
         -React Native 
-       Front : 
+        
+       Front 
         -React
         -NextJs,
         -Svelte Js
-       Backend: 
+        
+       Backend
         -Node Js
-       Databases:
+        
+       Databases
         -Sql Server
         -MongoDB
-       Clouds:
+        
+       Clouds
         -Heroku
         -Azure
      
