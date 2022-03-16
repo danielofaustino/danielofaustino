@@ -10,23 +10,23 @@
     - Stack
 
       - Mobile
-       - React Native 
+         - React Native 
         
       - Front 
-       - React
-       - NextJs,
-       - Svelte Js
+          - React
+          - NextJs,
+          - Svelte Js
         
       - Backend
-       - Node Js
+          - Node Js
         
       - Databases
-       - Sql Server
-       - MongoDB
+          - Sql Server
+          - MongoDB
         
       - Clouds
-       - Heroku
-       - Azure
+          - Heroku
+          - Azure
      
        
       
