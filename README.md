@@ -8,25 +8,25 @@
      I'm a full stack developer working at Lab Garage.
      
     - Stack
-    - 
-       Mobile
-        -React Native 
+
+      - Mobile
+       - React Native 
         
-       Front 
-        -React
-        -NextJs,
-        -Svelte Js
+      - Front 
+       - React
+       - NextJs,
+       - Svelte Js
         
-       Backend
-        -Node Js
+      - Backend
+       - Node Js
         
-       Databases
-        -Sql Server
-        -MongoDB
+      - Databases
+       - Sql Server
+       - MongoDB
         
-       Clouds
-        -Heroku
-        -Azure
+      - Clouds
+       - Heroku
+       - Azure
      
        
       
