@@ -1,6 +1,6 @@
   # Daniel Oliveira Faustino
   
-  29 Anos👋 - Full Stack Developer
+  30 Anos👋 - Full Stack Developer
 
 - 🔭 I’m currently working on ...
 
