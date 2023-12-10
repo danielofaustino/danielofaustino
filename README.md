@@ -5,8 +5,11 @@
 - 🔭 I’m currently working on ...
 
     - [FastProBR](https://www.fastprobr.com) - [Visa Partner](https://www.partnerbase.com/fastprobr/visa)
-    - Full Stack developer working at Lab Garage on Cubo Itaú. ( EMV Contactless Payments on Public Transportation, Lyra Gateway, Getnet, Cielo and Software Express.
-      
+    - Full Stack developer working at Lab Garage on Cubo Itaú. ( EMV Contactless Payments on Public Transportation, Lyra Gateway, Getnet, Cielo and Software Express acquires.
+ 
+    - [sport-club-system](http://www.algoritme-se.com.br/sport-club-system) .
+    - System for managment and scheduling classes at sports clubs such as beach sports, using node js, fastfy, typescript, prisma, react native and postgreSQL.
+
     - [Fabrine Macedo Beauty Artist](https://www.clinicafcare.com.br/) .
     - New website development, using SvelteJS and Tailwind CSS, Instagram API.
     - Admin System, using Nextjs, MongoDb, Prisma, Vercel.
