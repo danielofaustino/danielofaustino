@@ -3,9 +3,6 @@
   31 Anos👋 - Full Stack Developer
 
 - 🔭 I’m currently working on ...
-
-    - [FastProBR](https://www.fastprobr.com) - [Visa Partner](https://www.partnerbase.com/fastprobr/visa)
-    - Full Stack developer working at Lab Garage on Cubo Itaú. ( EMV Contactless Payments on Public Transportation, Lyra Gateway, Getnet, Cielo and Software Express acquires.
  
     - [sport-club-system](https://github.com/algoritme-se/api-sport-club)
     - System for managment and scheduling classes at sports clubs such as beach sports, using node js, fastfy, typescript, prisma, react native and postgreSQL.
@@ -17,17 +14,19 @@
     - CloudFlare, Google Analytics.
    
 - 🌱 I’m currently learning ...
-
-  - Javascript Algorithms 
+  - C++
+  - Algorithms 
   - Data structures
   - Docker
   - Linux ( Ubuntu Server, Debian )
-  - OOP
-  - Typescript
-  - IOC
+  - Design patterns
+
   
-  
- 
+- 📕 I’m  currently reading ...
+  - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
+  - Arquitetura limpa: o guia do artesão para estrutura e design de software ✅
+  - Princípios de Orientação a Objetos em JavaScript ✅
+  - Estruturas de Dados e Algoritmos com JavaScript: Escreva um Código JavaScript Complexo e Eficaz Usando a Mais Recente ECMAScript ✅
  
  
 
